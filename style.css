@@ -1,0 +1,33 @@
+html{
+    background-color: black;
+    width: 60%;
+    margin: auto;
+
+}
+.all{
+    border: black 10px solid;
+    background-color: black;
+    color: white;
+    
+}
+
+.title{
+
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+}
+input[type=button] {
+    width: 10%;
+    background-color: white;
+    color: black;
+    margin-left: auto;
+    padding-bottom:-10px ;
+    border: none;
+}
+input[type=button]:hover{
+    background-color: darkgray;
+}
